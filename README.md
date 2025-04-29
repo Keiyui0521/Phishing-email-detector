@@ -1,5 +1,7 @@
 # Phishing Email Detector
 
+This project is the final group project for STAT1016 (Data Science 101) at The University of Hong Kong.
+
 A Flask web application for detecting phishing emails using machine learning.
 
 ## Features
