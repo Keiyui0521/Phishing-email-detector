@@ -1,0 +1,26 @@
+# Virtual environment
+venv_classifier/
+venv/
+
+# Model files
+*.sav
+*.pkl
+*.joblib
+
+# Database
+data/reports.db
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and development files
+*.log
+*.sqlite
+
+# Jupyter notebooks
+.ipynb_checkpoints/
